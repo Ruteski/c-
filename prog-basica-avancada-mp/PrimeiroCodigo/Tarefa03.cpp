@@ -1,7 +1,7 @@
 #include <iostream>
 #include <iomanip> // para mostrar o double completo
 
-int main() {
+void fun() {
 	setlocale(LC_ALL, "portuguese");
 
 	int NumVidas = 5;
