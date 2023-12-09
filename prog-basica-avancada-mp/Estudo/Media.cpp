@@ -1,6 +1,6 @@
 #include <iostream>
 
-int main()
+void f1main()
 {
 	setlocale(LC_ALL, "portuguese");
 

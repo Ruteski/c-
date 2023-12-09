@@ -21,5 +21,8 @@
     <ClCompile Include="Media.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="OperadoresRelacionais.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
